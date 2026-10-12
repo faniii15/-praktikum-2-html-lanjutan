@@ -45,6 +45,7 @@ Praktikum ini bertujuan untuk:
 Kode tersebut berfungsi untuk membuat tabel terstruktur lengkap dengan judul tabel (<caption), bagian kepala (<thead), badan data (<tbody), serta bagian kaki (<tfoot) yang menggunakan atribut colspan="2" untuk menggabungkan dua sel kolom guna menampilkan nilai rata-rata.
 
 # 3. Membuat Form Registrasi Mahasiswa
+(images/3.png)
 
 Kode HTML di atas adalah struktur dasar untuk membuat halaman web yang menampilkan tabel data mahasiswa. Tag utama yang digunakan meliputi <html sebagai akar dokumen, <head untuk informasi latar, <body untuk isi halaman, <h1 untuk judul, serta tag tabel (<table, <tr, <th, <td) untuk menyusun baris, header, dan sel data.
 
