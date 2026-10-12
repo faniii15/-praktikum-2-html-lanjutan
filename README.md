@@ -82,7 +82,9 @@ Kode tersebut berfungsi untuk menambahkan elemen multimedia pada halaman web, ya
 ![Proyek Mini — Form Biodata Mahasiswa](images/9.png)
 
 Kode tersebut berfungsi untuk membangun sebuah proyek mini (Halaman Biodata Mahasiswa) yang menggabungkan seluruh materi HTML Lanjutan, yang mencakup struktur tata letak menggunakan Semantic HTML (<header, <nav, <main, <section, <footer), penyajian informasi dengan Tabel, serta pembuatan Form Biodata interaktif yang dilengkapi dengan elemen pilihan (<select, <textarea) dan fitur validasi dasar (required).
-![INDEX1](images/10.png)
-![INDEX1](images/11.png)
 ![INDEX1](images/12.png)
+
+![INDEX1](images/11.png)
+
+![INDEX1](images/10.png)
 
