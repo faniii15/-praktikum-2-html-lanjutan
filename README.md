@@ -45,30 +45,36 @@ Praktikum ini bertujuan untuk:
 Kode tersebut berfungsi untuk membuat tabel terstruktur lengkap dengan judul tabel (<caption), bagian kepala (<thead), badan data (<tbody), serta bagian kaki (<tfoot) yang menggunakan atribut colspan="2" untuk menggabungkan dua sel kolom guna menampilkan nilai rata-rata.
 
 # 3. Membuat Form Registrasi Mahasiswa
-(images/3.png)
+![Membuat Form Registrasi Mahasiswa](images/3.png)
 
 Kode HTML di atas adalah struktur dasar untuk membuat halaman web yang menampilkan tabel data mahasiswa. Tag utama yang digunakan meliputi <html sebagai akar dokumen, <head untuk informasi latar, <body untuk isi halaman, <h1 untuk judul, serta tag tabel (<table, <tr, <th, <td) untuk menyusun baris, header, dan sel data.
 
 # 4. Radio Button dan Checkbox
+![Radio Button dan Checkbox](images/4.png)
 
 Kode tersebut berfungsi untuk membuat elemen pilihan interaktif, yaitu tombol radio (type="radio") untuk memilih satu opsi jenis kelamin dan kotak centang (type="checkbox") untuk memilih satu atau beberapa opsi keahlian yang masing-masing dilengkapi dengan label keterangan
 
 # 5. Select dan Textarea
-
+![Select dan Textarea](images/5.png)
 Kode tersebut berfungsi untuk membuat elemen pilihan menu dropdown (<select dan <option) guna memilih program studi serta kotak teks area multi-baris (<textarea) untuk memasukkan alamat lengkap, yang keduanya dilengkapi dengan label keterangan (<label).
 
 # 6. Validasi Form Dasar
+![ Validasi Form Dasar](images/6.png)
 
 Kode tersebut berfungsi untuk membuat formulir dengan fitur validasi form dasar, yang meliputi atribut required (wajib diisi), minlength (panjang minimum teks), serta batasan angka minimum dan maksimum (min dan max) untuk memastikan data yang dikirimkan sesuai dengan aturan sebelum form diproses.
 
 # 7. Membuat Halaman Semantic HTML
+![ Membuat Halaman Semantic HTML](images/7.png)
 
 Kode tersebut berfungsi untuk menerapkan Semantic HTML dalam menyusun struktur halaman web yang bermakna, yang terdiri dari bagian kepala halaman (<header), menu navigasi (<nav), konten utama (<main), seksi konten (<section), hingga artikel mandiri (<article).
 
 # 8. Menambahkan Multimedia
+![Menambahkan Multimedia](images/8.png)
+
 
 Kode tersebut berfungsi untuk menambahkan elemen multimedia pada halaman web, yaitu tag <audio untuk menampilkan pemutar suara dengan kontrol bawaan serta tag <video untuk memutar video dengan lebar yang ditentukan (width="480"), lengkap dengan teks cadangan jika browser tidak mendukung format media tersebut
 
 # 9. Proyek Mini — Form Biodata Mahasiswa
+![Proyek Mini — Form Biodata Mahasiswa](images/9.png)
 
 Kode tersebut berfungsi untuk membangun sebuah proyek mini (Halaman Biodata Mahasiswa) yang menggabungkan seluruh materi HTML Lanjutan, yang mencakup struktur tata letak menggunakan Semantic HTML (<header, <nav, <main, <section, <footer), penyajian informasi dengan Tabel, serta pembuatan Form Biodata interaktif yang dilengkapi dengan elemen pilihan (<select, <textarea) dan fitur validasi dasar (required).
