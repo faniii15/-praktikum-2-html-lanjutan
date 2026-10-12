@@ -69,17 +69,11 @@ Kode tersebut berfungsi untuk membuat formulir dengan fitur validasi form dasar,
 Kode tersebut berfungsi untuk menerapkan Semantic HTML dalam menyusun struktur halaman web yang bermakna, yang terdiri dari bagian kepala halaman (<header), menu navigasi (<nav), konten utama (<main), seksi konten (<section), hingga artikel mandiri (<article).
 
 # 8. Menambahkan Multimedia
+![ Menambahkan Multimedia](images/8.png)
+![ Menambahkan Multimedia](media/audio.mp3)
+![ Menambahkan Multimedia](media/video.mp4)
 
-<h2>Audio</h2>
-<audio controls>
-<source src="media/audio.mp3" type="audio/mpeg">
-Browser tidak mendukung audio.
-</audio>
-<h2>Video</h2>
-<video controls width="480">
-<source src="media/video.mp4" type="video/mp4">
-Browser tidak mendukung video.
-</video>
+
 
 
 Kode tersebut berfungsi untuk menambahkan elemen multimedia pada halaman web, yaitu tag <audio untuk menampilkan pemutar suara dengan kontrol bawaan serta tag <video untuk memutar video dengan lebar yang ditentukan (width="480"), lengkap dengan teks cadangan jika browser tidak mendukung format media tersebut
